@@ -1,5 +1,5 @@
 import Layout from '../components/Layout';
-import ProductItem from '../components/Productitem';
+import ProductItem from '../components/ProductItem';
 
 import axios from 'axios';
 import { useContext } from 'react';
